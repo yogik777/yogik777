@@ -11,7 +11,6 @@ I'm a passionate software developer who loves building scalable and innovative s
 - **Backend:** .NET Core, C#, Web API, SQL Server  
 - **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS  
 - **Cloud & DevOps:** Azure, Docker, Kubernetes, Azure DevOps, CI/CD  
-- **Observability & Logging:** OpenTelemetry, Logging Frameworks  
 - **Software Development:** Microservices, SaaS, Infrastructure as Code  
 - **Tools & Platforms:** PowerShell, IIS, Git, Agile Methodologies  
 
