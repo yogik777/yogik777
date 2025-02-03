@@ -33,9 +33,8 @@ Big thanks to **Shivprasad Koirala Sir** for being an incredible mentor, and gui
 
 
 ### 📢 Let's Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)  
-📂 [GitHub](https://github.com/YOUR_GITHUB)  
-📧 Email: your.email@example.com  
+💼 linkedin.com/in/yogesh-kumbhar-160277263
+📧 Email: yogeshkumbhar721843@gmail.com  
 
 ---
 
